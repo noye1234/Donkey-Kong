@@ -1,9 +1,9 @@
-noy elisha 213419500
-raz zargian 315377697
-may hohashvili 322780511 
+noy elisha 
+raz zargian 
+may hohashvili 
 
 ```
-// matala 3 
+// ex 3 
 The feature we added, as we are three students working on this project,
  allows selecting the screen color before you entered the menu.
  
@@ -13,7 +13,7 @@ bonus:
  We added a feature where the ghosts chase Mario.
 
 
-//matala 2 
+//ex 2 
 The feature we added, as we are three students working on this project,
  allows selecting Mario's icon and replacing it with other icons chosen by the user.
 
@@ -28,44 +28,7 @@ If Mario falls on the Q frame, he is disqualified.
 If Mario kills barrels or ghosts using the hammer it adds points to Mario's score
 if mario jumping over a ghost it add 60 points to marios score.
 
-// matala 1 
-# Project Submission Approval
-
-## Approval Emails (in Hebrew)
-
-### Email 1
-שלום למאי, נוי ורז.
-
-אני מאשר לכם הגשה של תרגילי הבית בקורס C++ בשלשה מהסיבה שפורטה. האישור הוא לכל שלושת התרגילים, אבל אם תרצו להתפצל בהמשך אתם יכולים לעשות זאת (אנא ידעו אותי במייל, בתפוצה זו, במידה ותתפצלו בהגשות עתידיות).
-אנא צרפו אישור זה להגשה עצמה כאסמכתא לכך שאתם מגישים בשלושה תחת אישורי.
-בשל ההגשה בשלשה יידרשו תוספות קטנות לתרגילים - צרו איתי קשר בהמשך במייל או בסוף שיעור עם הצעות שלכם לתוספת קטנה בכל תרגיל. באחריותכם לחשוב על התוספת הקטנה.
-
-בהצלחה!
-אמיר
-
-### Email 2
-Sarel Cohen
-
-Hohashvili May
-
-שלום, 
-
-מאשר את בקשתכן, יש להוסיף את האישור להגשה.
-
-בברכה,
-שראל
-
-‫ב-18 בדצמ׳ 2024, בשעה 15:20, ‏‏Hohashvili May ‏<hohashvilima@mta.ac.il> כתב/ה:‬
-
-אישרתם לנו לעבוד על הפרוייקט בשלשה 
-לכן הוספנו תוספת ללא בונוס של רצפה שמחליטה רנדומלית על כיוון החביות 
-נשמח לאישור כתוב במייל על מנת לשכתב לקובץ טקסט שמוסיפים בהגשה 
-
-בנוסף נשמח לאישור על התוספות בונוס הבאות: 
-Ascii art עיצוב של הכותרת משחק 
-
-אם מריו קופץ מעל חבית הוא מקבל 50 נקודות 
-תודה מראש
+// ex 1 
 
 ## Decisions Made During Assignment Development
 1. When Mario loses a life, his points reset.
